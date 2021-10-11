@@ -3,3 +3,8 @@
 ![Схема](./docs/1.png)
 
 Исследуем подход https://learn.javascript.ru/long-polling
+
+Запуск проекта
+```
+node server.js
+```
